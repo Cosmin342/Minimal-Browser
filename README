@@ -1,0 +1,91 @@
+Radu Cosmin
+313 CB
+
+Tema 2 - Minimal Browser
+
+Pentru implementarea functionalitatilor unui browser, am definit mai multe
+structuri:
+- t_browser ce retine o lista dublu inlantuita circulara cu santinela
+de tab-uri, o coada pentru istoric si o coada de prioritati pentru resurse;
+- t_tabs, reprezentand o celula pentru lista de tab-uri, ce contine doi
+pointeri pre si urm la celula urmatoare, respectiv anterioara, un pointer
+la o pagina web, cat si doua stive pentru operatiile de back si forward;
+- t_web_page care contine un url, numarul de resurse descarcabile din pagina
+si vectorul de resurse disponibile;
+- TStiva, structura pentru stiva, ce retine dimensiunea elementelor si o
+lista generica, care are celulele de tip TCel, asupra acesteia putandu-se
+efectua operatiile de introducere, extragere, resetare si distrugere;
+- TCoada, structura pentru coada, ce retine dimensiunea elementelor si o
+lista generica, care are celulele de tip TCel, asupra acesteia putandu-se
+efectua operatiile de introducere, extragere, resetare si distrugere;
+
+In fisierul structures.h sunt definite structurile pentru browser cat
+si prototipurile functiilor folosite in fisierele cod sursa, iar in utils.h
+este definita structura pentru resurse.
+
+Pentru o claritate mai buna a codului, l-am impartit in 5 fisiere .c:
+- main.c - contine main-ul programului si functiile de prelucrare date de
+fisierul de intrare;
+- fstiva.c - contine functiile pentru prelucrarea stivelor;
+- fcoada.c - contine functiile pentru prelucrarea cozilor;
+- functii.c - restul functiilor pentru realizarea cerintelor;
+- utils.c - contine functia pentru obtinerea resurselor unei pagini web.
+
+Pentru a citi numele fisierelor date ca parametru am folosit parametrii liniei
+de comanda, argc si argv.
+
+Pentru inceput folosesc functia deschide pentru a deschide browser-ul si un
+tab gol.
+
+Pentru functia set_band am setat variabila band(independenta de vreo structura)
+la valoarea oferita ca parametru in fisierul de intrare. Altfel, band are
+valoarea default 1024.
+
+La functia newtab, aloc memorie pentru un nou tab si il leg in lista de tab-uri
+a browserului la sfarsit(folosind campul pre al santinelei) si setez tab-ul
+curent la noul tab deschis. La functia deltab, verific daca tab-ul curent daca
+este ultimul, iar daca este, il setez ca fiind penultimul. Apoi ma duc la
+finalul listei de tab-uri, distrug ultimul tab si refac legaturile in lista.
+
+Pentru functia change_tab, parcurg lista cu un for si o variabila i, in
+interiorul for-ului realizand avansul in lista, oprindu-ma cand i ajunge
+la tab-ul cerut.
+
+La functia print_open_tabs, parcurg lista de tab-uri si afisez indicele
+tab-ului si url-ul paginii fiecarei tab(daca are pagina deschisa).
+
+Pentru functia goto aloc o pagina web, ii atribui url-ul dat ca parametru,
+aflu resursele cu functia oferita in fisierul utils.c si atribui campului
+pt pagini al tabului curent pagina nou creata daca este gol, altfel bag in
+stiva de back pagina curenta si apoi pun noua pagina in tab-ul curent.
+
+Functiile back si forward functioneaza cam pe acelasi principiu. Se extrage,
+daca stiva nu este vida, din stiva de back/forward pagina de la varful
+stivei, se pune pagina tab-ului curent in stiva de forward/back si apoi
+se atribuie campului de pagina web al tab-ului pagina extrasa anterior.
+
+La functia history extrag din coada pentru istoric paginile si printez url-ul
+acestora.
+
+La functia del_history, extrag cate intrari au fost transmise ca parametru din
+coada de history si eliberez memoria ocupata de acestea, sau pe toate in cazul
+in care numarul de intrari este 0.
+
+La comanda list_dl parcurg vectorul de resurse al paginii si afisez conform
+formatului.
+
+Pentru functia downloads extrag elementele din coada de descarcari si din cea
+care le contine pe cele complete si afisez conform formatului. Pentru
+download ma folosesc de o coada auxiliara unde voi pune elementele extrase
+din coada de prioritati. Pentru fiecare resursa noua testez mai multe cazuri
+in vederea determinarii locului unde trebuie inserata in coada auxiliara.
+Dupa gasirea locului pentru noua resursa, golesc restul cozii de prioritati
+si apoi extrag elementele din coada auxiliara si le pun in vechea coada.
+Pentru functia de wait, in functie de bandwidth si numarul de secunde, descarc
+un anumit numar de Bytes pe care il atribui resurselor din coada de prioritati.
+Daca numarul de Bytes descarcati al unei resurse depaseste dimensiunea acesteia
+sau este egala cu ea, resursa este trecuta in coada de descarcari finalizate.
+
+Pentru compilare se foloseste comanda make sau make build.
+
+Pe checker-ul local am obtinut 85 de puncte si pe cele 20 bonus.
