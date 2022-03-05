@@ -1,0 +1,25 @@
+goto reddit.com
+goto taobao.com
+goto apple.com
+goto imgur.com
+download 2
+goto google.pl
+list_dl
+print_open_tabs
+newtab
+del_history 2
+goto tmall.com
+download 3
+list_dl
+history
+newtab
+change_tab 2
+deltab
+change_tab 1
+download 1
+goto office.com
+history
+newtab
+change_tab 2
+del_history 3
+downloads

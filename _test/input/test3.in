@@ -1,0 +1,50 @@
+goto go.com
+newtab
+goto youku.com
+goto google.es
+deltab
+newtab
+goto yahoo.co.jp
+goto amazon.com
+goto twitter.com
+change_tab 0
+deltab
+newtab
+print_open_tabs
+change_tab 0
+deltab
+newtab
+newtab
+change_tab 1
+deltab
+change_tab 1
+print_open_tabs
+goto bilibili.com
+change_tab 1
+deltab
+goto google.com.au
+goto ebay.com
+print_open_tabs
+newtab
+deltab
+newtab
+goto coccoc.com
+newtab
+newtab
+goto google.fr
+change_tab 0
+print_open_tabs
+goto doubleclick.net
+goto google.ca
+deltab
+goto diply.com
+goto bbc.co.uk
+newtab
+deltab
+print_open_tabs
+goto soso.com
+change_tab 1
+deltab
+goto google.co.th
+goto sohu.com
+print_open_tabs

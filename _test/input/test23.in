@@ -1,0 +1,500 @@
+goto tianya.cn
+goto chinadaily.com.cn
+newtab
+change_tab 1
+newtab
+deltab
+del_history 0
+goto cntv.cn
+history
+goto bilibili.com
+back
+print_open_tabs
+forward
+back
+deltab
+del_history 1
+newtab
+history
+goto xinhuanet.com
+goto soso.com
+deltab
+back
+goto microsoft.com
+print_open_tabs
+newtab
+deltab
+back
+history
+goto paypal.com
+back
+print_open_tabs
+forward
+goto alibaba.com
+goto google.co.id
+goto google.de
+goto baidu.com
+print_open_tabs
+del_history 5
+history
+newtab
+goto rakuten.co.jp
+deltab
+newtab
+change_tab 1
+history
+del_history 3
+print_open_tabs
+deltab
+back
+goto googleweblight.com
+newtab
+del_history 12
+deltab
+goto popads.net
+newtab
+print_open_tabs
+newtab
+change_tab 1
+goto naver.com
+deltab
+goto amazon.co.uk
+back
+newtab
+change_tab 0
+print_open_tabs
+del_history 1
+history
+change_tab 2
+newtab
+deltab
+newtab
+del_history 11
+change_tab 1
+print_open_tabs
+newtab
+newtab
+newtab
+history
+goto pinterest.com
+deltab
+newtab
+del_history 8
+newtab
+change_tab 4
+history
+newtab
+goto live.com
+deltab
+print_open_tabs
+change_tab 5
+goto googleusercontent.com
+deltab
+change_tab 5
+del_history 4
+newtab
+deltab
+newtab
+newtab
+print_open_tabs
+goto google.co.uk
+del_history 18
+deltab
+history
+change_tab 0
+print_open_tabs
+newtab
+goto google.co.uk
+deltab
+goto go.com
+history
+del_history 22
+deltab
+print_open_tabs
+newtab
+change_tab 3
+newtab
+change_tab 5
+deltab
+goto 360.cn
+goto booking.com
+history
+del_history 22
+back
+back
+forward
+change_tab 7
+print_open_tabs
+change_tab 2
+newtab
+change_tab 8
+history
+del_history 20
+deltab
+print_open_tabs
+newtab
+newtab
+newtab
+newtab
+deltab
+history
+change_tab 2
+newtab
+change_tab 0
+newtab
+del_history 17
+goto google.es
+history
+goto dropbox.com
+deltab
+goto twitter.com
+print_open_tabs
+newtab
+newtab
+change_tab 11
+goto blogger.com
+del_history 16
+print_open_tabs
+deltab
+goto naver.com
+newtab
+history
+change_tab 11
+deltab
+newtab
+print_open_tabs
+newtab
+history
+goto pixnet.net
+newtab
+deltab
+newtab
+goto bbc.co.uk
+newtab
+deltab
+print_open_tabs
+goto paypal.com
+change_tab 14
+newtab
+newtab
+newtab
+history
+deltab
+newtab
+print_open_tabs
+del_history 23
+deltab
+newtab
+history
+goto 163.com
+print_open_tabs
+goto google.ru
+newtab
+del_history 28
+history
+goto outbrain.com
+goto weibo.com
+goto amazon.co.uk
+newtab
+del_history 2
+history
+newtab
+deltab
+goto tmall.com
+change_tab 12
+print_open_tabs
+change_tab 12
+goto 360.cn
+del_history 15
+history
+change_tab 9
+goto google.co.uk
+newtab
+deltab
+goto google.co.uk
+goto baidu.com
+goto craigslist.org
+newtab
+deltab
+change_tab 12
+del_history 28
+change_tab 5
+back
+print_open_tabs
+goto tmall.com
+history
+goto gmw.cn
+back
+newtab
+print_open_tabs
+goto sina.com.cn
+change_tab 13
+newtab
+goto amazon.in
+del_history 3
+newtab
+newtab
+print_open_tabs
+goto google.com.br
+goto alibaba.com
+deltab
+history
+del_history 19
+newtab
+deltab
+change_tab 13
+newtab
+print_open_tabs
+deltab
+history
+del_history 41
+change_tab 17
+goto chinadaily.com.cn
+goto facebook.com
+change_tab 0
+history
+newtab
+del_history 28
+print_open_tabs
+change_tab 11
+back
+back
+change_tab 2
+del_history 11
+print_open_tabs
+deltab
+newtab
+newtab
+newtab
+deltab
+del_history 22
+newtab
+print_open_tabs
+newtab
+change_tab 3
+history
+deltab
+newtab
+del_history 12
+goto wikipedia.org
+change_tab 7
+goto cntv.cn
+goto outbrain.com
+deltab
+change_tab 19
+del_history 17
+change_tab 6
+history
+print_open_tabs
+goto fc2.com
+newtab
+del_history 41
+goto instagram.com
+deltab
+print_open_tabs
+goto zhihu.com
+history
+deltab
+goto imdb.com
+goto taobao.com
+change_tab 8
+print_open_tabs
+del_history 31
+history
+newtab
+newtab
+goto imdb.com
+change_tab 20
+newtab
+change_tab 22
+del_history 10
+newtab
+newtab
+print_open_tabs
+history
+newtab
+newtab
+deltab
+newtab
+print_open_tabs
+goto yahoo.co.jp
+del_history 22
+change_tab 24
+newtab
+goto jd.com
+change_tab 2
+print_open_tabs
+deltab
+newtab
+change_tab 6
+newtab
+del_history 12
+goto wikipedia.org
+goto coccoc.com
+newtab
+change_tab 16
+newtab
+change_tab 34
+goto youtube.com
+del_history 38
+goto wordpress.com
+newtab
+print_open_tabs
+deltab
+change_tab 19
+del_history 61
+history
+deltab
+change_tab 18
+goto sohu.com
+back
+newtab
+goto office.com
+history
+newtab
+del_history 19
+goto google.com.au
+change_tab 9
+deltab
+goto dropbox.com
+print_open_tabs
+newtab
+change_tab 36
+history
+deltab
+newtab
+goto outbrain.com
+goto wikipedia.org
+newtab
+goto google.de
+newtab
+goto youku.com
+print_open_tabs
+history
+change_tab 31
+goto microsoftonline.com
+newtab
+del_history 4
+newtab
+history
+change_tab 4
+goto go.com
+newtab
+goto google.de
+print_open_tabs
+change_tab 14
+goto netflix.com
+newtab
+change_tab 4
+goto aliexpress.com
+deltab
+newtab
+goto rakuten.co.jp
+print_open_tabs
+del_history 52
+history
+deltab
+change_tab 19
+newtab
+newtab
+deltab
+newtab
+del_history 54
+change_tab 11
+newtab
+change_tab 45
+goto coccoc.com
+change_tab 8
+del_history 36
+deltab
+change_tab 9
+goto amazon.de
+change_tab 39
+deltab
+change_tab 22
+print_open_tabs
+newtab
+change_tab 41
+goto google.co.id
+newtab
+change_tab 9
+newtab
+history
+newtab
+del_history 76
+goto google.fr
+print_open_tabs
+goto rakuten.co.jp
+back
+newtab
+change_tab 18
+newtab
+goto google.co.in
+newtab
+print_open_tabs
+del_history 25
+change_tab 3
+history
+newtab
+goto msn.com
+deltab
+goto apple.com
+goto github.com
+del_history 53
+newtab
+history
+change_tab 21
+deltab
+newtab
+goto whatsapp.com
+change_tab 49
+newtab
+newtab
+newtab
+print_open_tabs
+history
+deltab
+newtab
+newtab
+del_history 58
+newtab
+change_tab 45
+print_open_tabs
+deltab
+change_tab 51
+del_history 50
+goto weibo.com
+deltab
+back
+forward
+print_open_tabs
+del_history 9
+newtab
+deltab
+goto reddit.com
+newtab
+history
+change_tab 11
+deltab
+goto tianya.cn
+newtab
+change_tab 51
+print_open_tabs
+change_tab 3
+history
+del_history 38
+change_tab 12
+newtab
+goto instagram.com
+change_tab 46
+goto answers.yahoo.com
+newtab
+newtab
+goto google.co.uk
+history
+deltab
+del_history 41
+newtab
+goto tianya.cn
+deltab
+print_open_tabs

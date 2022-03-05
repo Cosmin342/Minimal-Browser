@@ -1,0 +1,19 @@
+goto google.com
+goto facebook.com
+newtab
+goto yahoo.com
+history
+change_tab 0
+back
+print_open_tabs
+list_dl
+change_tab 0
+newtab
+goto acs.pub.ro
+change_tab 0
+forward
+print_open_tabs
+change_tab 2
+list_dl
+del_history 1
+history

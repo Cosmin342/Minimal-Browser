@@ -1,0 +1,75 @@
+goto live.com
+newtab
+change_tab 1
+newtab
+newtab
+goto youtube.com
+deltab
+goto cnn.com
+newtab
+newtab
+deltab
+change_tab 0
+goto popads.net
+print_open_tabs
+goto qq.com
+newtab
+deltab
+goto sina.com.cn
+goto craigslist.org
+print_open_tabs
+deltab
+change_tab 0
+goto googleadservices.com
+change_tab 0
+newtab
+newtab
+print_open_tabs
+change_tab 2
+goto linkedin.com
+deltab
+change_tab 1
+goto google.co.id
+goto google.de
+newtab
+deltab
+change_tab 1
+goto outbrain.com
+change_tab 1
+newtab
+change_tab 2
+deltab
+newtab
+goto booking.com
+change_tab 2
+newtab
+change_tab 0
+deltab
+change_tab 0
+newtab
+goto google.fr
+print_open_tabs
+goto craigslist.org
+goto wikia.com
+newtab
+change_tab 1
+newtab
+change_tab 0
+newtab
+print_open_tabs
+deltab
+newtab
+change_tab 1
+goto weibo.com
+change_tab 5
+goto blogspot.com
+deltab
+goto ebay.com
+change_tab 4
+goto tumblr.com
+print_open_tabs
+goto chinadaily.com.cn
+newtab
+goto diply.com
+deltab
+print_open_tabs

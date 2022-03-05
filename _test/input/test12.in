@@ -1,0 +1,125 @@
+goto zhihu.com
+newtab
+goto google.com.au
+newtab
+newtab
+newtab
+change_tab 4
+goto google.co.th
+newtab
+change_tab 3
+print_open_tabs
+goto paypal.com
+goto yahoo.co.jp
+change_tab 2
+newtab
+deltab
+print_open_tabs
+goto aliexpress.com
+newtab
+change_tab 0
+goto google.co.kr
+change_tab 4
+newtab
+print_open_tabs
+change_tab 5
+deltab
+goto amazon.co.uk
+goto instagram.com
+change_tab 4
+newtab
+deltab
+print_open_tabs
+change_tab 5
+goto apple.com
+deltab
+goto sohu.com
+newtab
+newtab
+deltab
+change_tab 5
+goto apple.com
+goto rakuten.co.jp
+change_tab 6
+newtab
+print_open_tabs
+goto chinadaily.com.cn
+change_tab 0
+back
+deltab
+change_tab 4
+newtab
+change_tab 5
+back
+back
+print_open_tabs
+goto vk.com
+newtab
+goto taobao.com
+newtab
+change_tab 5
+print_open_tabs
+change_tab 7
+newtab
+deltab
+change_tab 8
+newtab
+print_open_tabs
+deltab
+newtab
+goto tianya.cn
+change_tab 9
+goto microsoft.com
+deltab
+newtab
+print_open_tabs
+change_tab 3
+goto qq.com
+back
+newtab
+deltab
+goto popads.net
+change_tab 0
+newtab
+print_open_tabs
+deltab
+goto diply.com
+newtab
+newtab
+deltab
+newtab
+change_tab 0
+newtab
+goto imgur.com
+goto 360.cn
+print_open_tabs
+newtab
+deltab
+newtab
+change_tab 1
+newtab
+print_open_tabs
+goto fc2.com
+deltab
+change_tab 0
+goto yahoo.co.jp
+newtab
+goto facebook.com
+newtab
+change_tab 0
+goto xinhuanet.com
+goto pinterest.com
+back
+change_tab 2
+goto google.pl
+deltab
+goto tumblr.com
+print_open_tabs
+change_tab 1
+goto doubleclick.net
+goto paypal.com
+deltab
+goto craigslist.org
+back
+goto fc2.com
+print_open_tabs

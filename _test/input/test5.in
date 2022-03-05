@@ -1,0 +1,125 @@
+goto sina.com.cn
+goto google.co.id
+goto yahoo.co.jp
+goto blogger.com
+goto live.com
+goto google.de
+print_open_tabs
+goto yahoo.co.jp
+newtab
+goto google.ru
+deltab
+goto answers.yahoo.com
+print_open_tabs
+newtab
+change_tab 0
+deltab
+newtab
+change_tab 1
+newtab
+change_tab 1
+deltab
+newtab
+print_open_tabs
+change_tab 2
+newtab
+goto xinhuanet.com
+newtab
+deltab
+goto booking.com
+print_open_tabs
+change_tab 3
+goto imdb.com
+deltab
+newtab
+newtab
+newtab
+deltab
+print_open_tabs
+change_tab 1
+goto alibaba.com
+newtab
+goto hao123.com
+change_tab 2
+newtab
+deltab
+change_tab 5
+newtab
+print_open_tabs
+change_tab 0
+deltab
+change_tab 0
+newtab
+goto office.com
+change_tab 2
+print_open_tabs
+goto rakuten.co.jp
+deltab
+change_tab 4
+goto 163.com
+newtab
+newtab
+goto amazon.co.jp
+goto google.de
+goto imgur.com
+goto ebay.com
+newtab
+goto bing.com
+print_open_tabs
+goto google.co.kr
+goto microsoftonline.com
+goto tumblr.com
+change_tab 3
+deltab
+print_open_tabs
+change_tab 6
+newtab
+deltab
+goto ebay.com
+newtab
+change_tab 2
+deltab
+newtab
+newtab
+print_open_tabs
+goto amazon.co.uk
+goto stackoverflow.com
+deltab
+newtab
+change_tab 7
+newtab
+newtab
+print_open_tabs
+change_tab 0
+deltab
+change_tab 5
+goto answers.yahoo.com
+change_tab 1
+goto amazon.co.uk
+print_open_tabs
+newtab
+change_tab 5
+newtab
+change_tab 7
+newtab
+newtab
+deltab
+print_open_tabs
+goto youku.com
+change_tab 4
+goto amazon.in
+newtab
+goto fc2.com
+deltab
+change_tab 10
+goto google.it
+newtab
+deltab
+goto amazon.de
+print_open_tabs
+newtab
+change_tab 8
+newtab
+change_tab 6
+goto tumblr.com
+print_open_tabs

@@ -1,0 +1,6 @@
+goto wikipedia.org
+goto google.ru
+back
+goto gmw.cn
+back
+print_open_tabs

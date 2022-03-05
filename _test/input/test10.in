@@ -1,0 +1,50 @@
+goto google.pl
+newtab
+goto alibaba.com
+goto wordpress.com
+change_tab 1
+goto amazon.in
+change_tab 1
+deltab
+goto ok.ru
+newtab
+change_tab 1
+deltab
+back
+newtab
+goto amazon.de
+deltab
+print_open_tabs
+forward
+goto amazon.de
+goto alibaba.com
+newtab
+goto bbc.co.uk
+change_tab 0
+goto google.com.au
+goto wikia.com
+goto dropbox.com
+goto jd.com
+change_tab 0
+print_open_tabs
+change_tab 1
+newtab
+deltab
+newtab
+goto google.co.uk
+goto blogger.com
+change_tab 0
+newtab
+change_tab 1
+deltab
+print_open_tabs
+goto xinhuanet.com
+goto jd.com
+change_tab 1
+goto craigslist.org
+goto outbrain.com
+back
+change_tab 2
+newtab
+newtab
+print_open_tabs

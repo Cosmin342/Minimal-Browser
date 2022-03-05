@@ -1,0 +1,100 @@
+goto google.com.au
+newtab
+change_tab 1
+newtab
+change_tab 2
+newtab
+deltab
+del_history 1
+history
+print_open_tabs
+newtab
+goto rakuten.co.jp
+goto paypal.com
+change_tab 2
+goto google.es
+newtab
+change_tab 3
+newtab
+history
+del_history 1
+deltab
+newtab
+newtab
+goto google.com.br
+goto fc2.com
+change_tab 6
+goto diply.com
+goto google.com.ph
+goto popads.net
+history
+deltab
+newtab
+newtab
+newtab
+del_history 2
+newtab
+change_tab 4
+history
+newtab
+change_tab 7
+print_open_tabs
+change_tab 10
+goto google.it
+history
+deltab
+goto 163.com
+del_history 2
+goto tumblr.com
+goto ok.ru
+newtab
+newtab
+change_tab 11
+history
+goto yandex.ru
+print_open_tabs
+goto google.pl
+change_tab 1
+del_history 10
+history
+newtab
+change_tab 7
+newtab
+newtab
+goto popads.net
+del_history 7
+newtab
+newtab
+newtab
+deltab
+newtab
+goto google.co.id
+change_tab 11
+newtab
+history
+print_open_tabs
+change_tab 0
+deltab
+del_history 14
+newtab
+goto popads.net
+deltab
+change_tab 2
+goto yahoo.com
+back
+del_history 10
+deltab
+newtab
+print_open_tabs
+change_tab 0
+deltab
+newtab
+goto whatsapp.com
+newtab
+newtab
+goto t.co
+change_tab 3
+deltab
+change_tab 11
+back
+history

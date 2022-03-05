@@ -1,0 +1,20 @@
+set_band 102400 
+goto URL1
+goto URL2
+list_dl
+download 1
+downloads
+newtab
+goto URL3
+change_tab 0
+goto URL4
+newtab
+goto URL5
+print_open_tabs
+list_dl
+download 2
+deltab
+downloads
+print_open_tabs
+wait 25
+downloads

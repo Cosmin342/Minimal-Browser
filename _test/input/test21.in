@@ -1,0 +1,150 @@
+goto sina.com.cn
+goto nicovideo.jp
+newtab
+newtab
+change_tab 2
+deltab
+goto live.com
+newtab
+history
+print_open_tabs
+newtab
+change_tab 3
+del_history 3
+newtab
+history
+deltab
+newtab
+goto go.com
+del_history 2
+print_open_tabs
+history
+newtab
+change_tab 2
+goto google.es
+del_history 4
+change_tab 2
+newtab
+history
+deltab
+goto chinadaily.com.cn
+newtab
+print_open_tabs
+del_history 2
+history
+deltab
+goto googleadservices.com
+back
+forward
+back
+print_open_tabs
+del_history 2
+goto office.com
+goto bbc.co.uk
+history
+newtab
+change_tab 3
+del_history 6
+newtab
+goto ebay.com
+goto msn.com
+change_tab 6
+history
+goto googleweblight.com
+change_tab 1
+goto doubleclick.net
+newtab
+deltab
+print_open_tabs
+newtab
+history
+newtab
+newtab
+del_history 3
+change_tab 5
+print_open_tabs
+back
+back
+change_tab 10
+del_history 7
+change_tab 10
+print_open_tabs
+goto wikia.com
+change_tab 9
+newtab
+goto youtube.com
+del_history 11
+print_open_tabs
+deltab
+change_tab 2
+history
+change_tab 7
+deltab
+del_history 12
+goto google.fr
+change_tab 1
+history
+change_tab 4
+newtab
+newtab
+del_history 9
+goto hao123.com
+newtab
+deltab
+goto sohu.com
+history
+newtab
+change_tab 7
+del_history 0
+back
+change_tab 2
+newtab
+history
+newtab
+del_history 15
+goto apple.com
+change_tab 9
+deltab
+goto netflix.com
+newtab
+print_open_tabs
+newtab
+change_tab 15
+history
+change_tab 11
+del_history 3
+print_open_tabs
+newtab
+newtab
+deltab
+newtab
+change_tab 4
+history
+print_open_tabs
+del_history 7
+goto accuweather.com
+newtab
+deltab
+newtab
+print_open_tabs
+change_tab 9
+history
+deltab
+del_history 15
+change_tab 0
+goto gmw.cn
+newtab
+print_open_tabs
+history
+newtab
+deltab
+newtab
+goto weibo.com
+print_open_tabs
+goto github.com
+deltab
+del_history 12
+goto google.fr
+print_open_tabs
+goto bing.com
+history

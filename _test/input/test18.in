@@ -1,0 +1,10 @@
+goto ok.ru
+goto google.co.kr
+goto fc2.com
+newtab
+change_tab 1
+goto popads.net
+goto facebook.com
+del_history 4
+history
+print_open_tabs

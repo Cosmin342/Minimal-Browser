@@ -1,0 +1,6 @@
+goto xinhuanet.com
+newtab
+goto tumblr.com
+newtab
+goto ok.ru
+print_open_tabs

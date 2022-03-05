@@ -1,0 +1,50 @@
+goto google.co.kr
+goto rakuten.co.jp
+newtab
+newtab
+goto amazon.com
+deltab
+change_tab 1
+goto rakuten.co.jp
+history
+del_history 4
+deltab
+goto youtube.com
+goto tmall.com
+back
+newtab
+deltab
+goto google.co.id
+goto zhihu.com
+history
+newtab
+deltab
+newtab
+print_open_tabs
+change_tab 0
+newtab
+del_history 8
+change_tab 2
+deltab
+change_tab 1
+goto google.pl
+goto naver.com
+deltab
+newtab
+newtab
+newtab
+goto jd.com
+goto outbrain.com
+print_open_tabs
+goto bbc.co.uk
+change_tab 1
+del_history 3
+newtab
+change_tab 2
+print_open_tabs
+deltab
+newtab
+goto wikipedia.org
+del_history 4
+history
+print_open_tabs

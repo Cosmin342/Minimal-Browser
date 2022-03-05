@@ -1,0 +1,75 @@
+goto onet.pl
+goto twitter.com
+goto aliexpress.com
+goto google.pl
+newtab
+change_tab 0
+back
+deltab
+goto gmw.cn
+newtab
+newtab
+newtab
+goto google.co.id
+change_tab 1
+print_open_tabs
+newtab
+goto amazon.com
+change_tab 0
+deltab
+newtab
+change_tab 0
+newtab
+deltab
+print_open_tabs
+change_tab 3
+goto accuweather.com
+back
+goto microsoft.com
+back
+newtab
+print_open_tabs
+change_tab 1
+deltab
+goto googleadservices.com
+goto sohu.com
+newtab
+deltab
+change_tab 3
+print_open_tabs
+newtab
+goto google.co.id
+change_tab 3
+goto stackoverflow.com
+change_tab 1
+deltab
+goto googleweblight.com
+print_open_tabs
+back
+goto google.com.br
+change_tab 0
+goto amazon.de
+newtab
+goto xinhuanet.com
+deltab
+change_tab 3
+back
+newtab
+print_open_tabs
+change_tab 0
+newtab
+change_tab 1
+newtab
+change_tab 0
+deltab
+goto alibaba.com
+change_tab 1
+newtab
+newtab
+deltab
+goto yahoo.com
+goto jd.com
+newtab
+change_tab 7
+newtab
+print_open_tabs

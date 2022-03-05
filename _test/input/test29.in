@@ -1,0 +1,102 @@
+goto qq.com
+newtab
+goto wikia.com
+download 0
+change_tab 0
+deltab
+download 5
+list_dl
+print_open_tabs
+set_band 12345
+newtab
+downloads
+history
+goto live.com
+change_tab 1
+deltab
+newtab
+wait 717
+print_open_tabs
+goto baidu.com
+download 3
+downloads
+download 3
+history
+newtab
+change_tab 0
+deltab
+newtab
+goto alipay.com
+download 3
+newtab
+wait 45
+history
+del_history 5
+newtab
+deltab
+downloads
+goto tianya.cn
+change_tab 0
+wait 889
+del_history 0
+list_dl
+print_open_tabs
+download 0
+goto ebay.com
+change_tab 0
+list_dl
+downloads
+change_tab 0
+download 1
+deltab
+download 1
+goto instagram.com
+del_history 0
+set_band 102400
+newtab
+print_open_tabs
+wait 349
+change_tab 3
+downloads
+del_history 6
+newtab
+change_tab 3
+newtab
+newtab
+change_tab 3
+downloads
+goto naver.com
+history
+change_tab 3
+del_history 1
+wait 621
+download 7
+change_tab 5
+downloads
+newtab
+print_open_tabs
+newtab
+newtab
+goto instagram.com
+goto google.ru
+download 2
+del_history 0
+wait 774
+deltab
+change_tab 3
+list_dl
+print_open_tabs
+deltab
+download 3
+del_history 4
+goto blogger.com
+newtab
+print_open_tabs
+history
+downloads
+newtab
+del_history 2
+goto yandex.ru
+wait 16
+goto 163.com
+downloads

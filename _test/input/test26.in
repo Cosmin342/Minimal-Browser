@@ -1,0 +1,9 @@
+goto answers.yahoo.com
+newtab
+goto alibaba.com
+change_tab 0
+list_dl
+deltab
+download 2
+print_open_tabs
+downloads

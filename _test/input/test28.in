@@ -1,0 +1,50 @@
+set_band 204800
+goto bbc.co.uk
+newtab
+change_tab 1
+goto office.com
+newtab
+change_tab 0
+print_open_tabs
+download 0
+history
+deltab
+download 0
+del_history 2
+print_open_tabs
+newtab
+change_tab 2
+downloads
+deltab
+newtab
+history
+goto blogspot.com
+change_tab 0
+deltab
+change_tab 0
+del_history 1
+goto google.co.id
+back
+forward
+newtab
+change_tab 2
+deltab
+goto google.co.uk
+history
+download 0
+print_open_tabs
+download 0
+deltab
+downloads
+history
+del_history 1
+downloads
+wait 162
+goto google.com.au
+back
+goto hao123.com
+list_dl
+downloads
+wait 196
+newtab
+history

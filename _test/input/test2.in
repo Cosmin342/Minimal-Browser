@@ -1,0 +1,11 @@
+goto office.com
+goto imdb.com
+newtab
+goto fc2.com
+change_tab 0
+goto popads.net
+deltab
+goto weibo.com
+newtab
+goto cntv.cn
+print_open_tabs

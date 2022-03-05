@@ -1,0 +1,18 @@
+google.com
+facebook.com
+yahoo.com
+(0: google.com)
+(1: yahoo.com)
+[0 - "google.com-(0)" : 102383015]
+(0: facebook.com)
+(1: yahoo.com)
+(2: acs.pub.ro)
+[0 - "acs.pub.ro-(0)" : 102414475]
+[1 - "acs.pub.ro-(1)" : 10664427]
+[2 - "acs.pub.ro-(2)" : 65714521]
+[3 - "acs.pub.ro-(3)" : 65713844]
+[4 - "acs.pub.ro-(4)" : 78820986]
+[5 - "acs.pub.ro-(5)" : 91928538]
+facebook.com
+yahoo.com
+acs.pub.ro

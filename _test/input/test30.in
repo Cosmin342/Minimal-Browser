@@ -1,0 +1,250 @@
+goto msn.com
+newtab
+goto craigslist.org
+download 0
+goto youtube.com
+goto instagram.com
+history
+deltab
+del_history 1
+print_open_tabs
+download 1
+newtab
+newtab
+downloads
+newtab
+goto google.com.au
+del_history 0
+deltab
+history
+print_open_tabs
+wait 54
+deltab
+newtab
+newtab
+downloads
+newtab
+newtab
+deltab
+change_tab 1
+downloads
+del_history 1
+deltab
+history
+wait 32
+print_open_tabs
+change_tab 2
+downloads
+change_tab 2
+newtab
+del_history 5
+print_open_tabs
+goto amazon.in
+goto amazon.com
+downloads
+wait 563
+newtab
+goto amazon.co.jp
+print_open_tabs
+goto youku.com
+download 1
+del_history 3
+wait 393
+back
+newtab
+change_tab 2
+history
+newtab
+goto google.de
+goto google.it
+wait 323
+deltab
+goto qq.com
+print_open_tabs
+download 1
+history
+deltab
+change_tab 5
+downloads
+list_dl
+del_history 11
+print_open_tabs
+forward
+download 0
+deltab
+change_tab 3
+downloads
+goto 360.cn
+change_tab 4
+deltab
+download 2
+newtab
+del_history 7
+deltab
+downloads
+download 2
+goto tmall.com
+deltab
+newtab
+wait 766
+print_open_tabs
+history
+goto yahoo.com
+change_tab 2
+deltab
+downloads
+change_tab 0
+download 4
+change_tab 1
+goto google.es
+wait 373
+list_dl
+newtab
+print_open_tabs
+deltab
+history
+change_tab 2
+del_history 16
+goto alipay.com
+deltab
+downloads
+wait 442
+newtab
+history
+newtab
+newtab
+newtab
+wait 619
+del_history 8
+goto gmw.cn
+list_dl
+deltab
+print_open_tabs
+newtab
+del_history 6
+history
+deltab
+wait 724
+newtab
+print_open_tabs
+newtab
+change_tab 5
+del_history 0
+newtab
+change_tab 1
+download 0
+wait 633
+download 0
+downloads
+deltab
+del_history 2
+history
+wait 686
+downloads
+goto netflix.com
+change_tab 0
+del_history 15
+goto naver.com
+change_tab 2
+history
+goto zhihu.com
+print_open_tabs
+newtab
+change_tab 1
+del_history 13
+deltab
+goto wordpress.com
+history
+download 0
+print_open_tabs
+list_dl
+newtab
+newtab
+downloads
+goto t.co
+goto linkedin.com
+newtab
+goto onet.pl
+print_open_tabs
+history
+deltab
+newtab
+del_history 2
+downloads
+change_tab 7
+history
+goto youtube.com
+downloads
+print_open_tabs
+wait 331
+list_dl
+downloads
+deltab
+history
+print_open_tabs
+newtab
+newtab
+wait 949
+deltab
+goto coccoc.com
+list_dl
+history
+print_open_tabs
+change_tab 7
+newtab
+del_history 10
+newtab
+downloads
+wait 396
+goto github.com
+download 5
+downloads
+del_history 25
+goto office.com
+history
+back
+change_tab 6
+print_open_tabs
+list_dl
+change_tab 6
+history
+downloads
+list_dl
+newtab
+goto google.it
+wait 588
+change_tab 0
+deltab
+download 0
+change_tab 0
+list_dl
+goto linkedin.com
+del_history 2
+history
+goto ebay.com
+print_open_tabs
+newtab
+newtab
+wait 535
+newtab
+downloads
+del_history 7
+newtab
+goto 360.cn
+newtab
+goto cntv.cn
+download 5
+wait 205
+history
+list_dl
+newtab
+del_history 4
+print_open_tabs
+change_tab 12
+deltab
+download 6
+goto github.com
+change_tab 15
+download 3
+del_history 15
+newtab
